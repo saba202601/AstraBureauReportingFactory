@@ -1,0 +1,6 @@
+Field Name,Start Position,Field Length,Data Type,Required
+PolicyNumber,1,15,Alpha,Yes
+State,16,2,Alpha,Yes
+EffectiveDate,18,10,Date,Yes
+Premium,28,12,Amount,Yes
+LossAmount,40,12,Amount,No
